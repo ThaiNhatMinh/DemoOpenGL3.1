@@ -62,3 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 glew-2.1.0/* linguist-vendored
+glfw-3.2.1.bin.WIN32/* linguist-vendored
